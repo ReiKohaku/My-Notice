@@ -1,0 +1,575 @@
+{
+	"version": "Alpha 0.4.8",
+	"content": [{
+			"name": "index",
+			"title": {
+				"zh-cn": "首页",
+				"en-us": "Home",
+				"ja-jp": "ホームページ"
+			},
+			"icon": "home",
+			"data": [{
+				"type": "content",
+				"content": {
+					"zh-cn": "# Sonolus工具站\r\n### 安卓版\r\n[点击这里](https://sonolus.com/download/Sonolus_0.4.8.apk)从官网下载Sonolus 0.4.8\r\n[点击这里](https://sonolus.reikohaku.fun/download/Sonolus_0.4.8.apk)从国内反代站下载Sonolus 0.4.8\r\n### iOS版\r\n[点击这里](https://testflight.apple.com/join/imFzDZcW)前往TestFlight页面\r\n\r\n### 其它\r\n查询服务器列表、更新日志等其它内容，请**点击左上角的按钮展开抽屉**选择查看。\r\n### 推荐工具\r\n#### 系统音频延迟测试（安卓）\r\n[点击下载：超能力 延迟测试 v1.9.1](https://reikohaku.lanzoui.com/iOG98idg0ob)\r\n\r\n此应用提供系统级的音频延迟测试，可在一定程度上为延迟调节提供帮助。\r\n### 友情链接\r\n[Bestdori!](https://bestdori.com)当下最流行的BanG Dream资源库、工具站和自制谱社区。\r\n\r\n[Konmai下载站](https://konmai.cn/)（由@Maverick创办）提供超多音游安卓版安装包的下载，如BanG Dream日/台/国际服、Lanota等。"
+				}
+			}]
+		},
+        {
+            "name": "quick-start",
+            "title": "开始游戏",
+            "icon": "phone_android",
+            "data": [{
+                "type": "content",
+                "content": {
+                    "zh-cn": "# 开始游戏\r\n\r\n您将在本章中学习到：\r\n\r\n* [如何下载与安装Sonolus](quick-start#如何下载与安装Sonolus)\r\n* [如何添加一个服务器地址](quick-start#如何添加一个服务器地址)\r\n* [如何开始一次游戏（以**BanG Dream！少女乐团派对**为例）](quick-start#如何开始一次游戏)\r\n\r\n## 如何下载与安装Sonolus\r\n\r\n1. 访问Sonolus的[官方网站](https://sonolus.com)。\r\n\r\n   *如果您无法打开该页面，请尝试访问[国内版网站](https://sonolus.reikohaku.fun)*。\r\n\r\n2. 您可以在页面顶部找到下载链接：按照您的系统选择其中一个链接点击，下载Sonolus主程序。\r\n\r\n   * 如果您使用的是**安卓**设备\r\n\r\n     点击链接后，浏览器将提示您下载一个应用安装包（*.apk），下载之并安装即可。\r\n\r\n   * 如果您使用的是**iOS**设备\r\n\r\n     点击链接后，您将跳转至Sonolus的TestFlight页面。\r\n\r\n     *如果您没有下载安装TestFlight，请先在应用商店下载安装。*\r\n\r\n     点击页面下方的**开始测试**按钮，在新打开的界面中依次点击**接受**和**安装**，等待安装完成即可。\r\n\r\n     > 如果您无法打开TestFlight，您可以做如下尝试：\r\n     >\r\n     > 1. 打开**设置**-**无线局域网**；\r\n     > 2. 连接可用的Wi-Fi网络；\r\n     > 3. 点击Wi-Fi网络名称右方的**显示信息**按钮；\r\n     > 4. 在该Wi-Fi网络详情部分向下滚动，找到**DNS**部分；\r\n     > 5. 点击修改DNS为8.8.8.8；\r\n     > 6. 点击左上角的**Wi-Fi**按钮退出设置，再尝试使用TestFlight。\r\n\r\n## 如何添加一个服务器地址\r\n\r\nSonolus本身不包含任何游戏内容——您只有连接了对应的服务器，才能体验到对应的游戏内容。\r\n\r\n1. 点击桌面上的**Sonolus**图标启动主程序。\r\n\r\n   *如果您是第一次打开游戏，程序会要求您做一些简单的设置。*\r\n\r\n2. 在**服务器**界面，点击下方的**添加**，输入一个服务器地址。\r\n\r\n   *服务器地址可以在[服务器列表](server-list)找到。*\r\n\r\n3. 点击**确认**，在列表中找到您刚刚添加的服务器地址，点击连接服务器即可查看对应服务器的关卡列表。\r\n\r\n   > 如果提示“第1页加载失败”，请您确认：\r\n   >\r\n   > 1. **服务器地址正确**，尤其是检查是否缺少了诸如反斜线（\\）、冒号（:）等字符，或是单词拼写是否正确。\r\n   > 2. 确认您的网络连接正常，必要时可以**更换一条线路**或是科学上网。\r\n\r\n## 如何开始一次游戏\r\n\r\n这里假定您已经添加了**BanG Dream！少女乐团派对**服务器的地址。\r\n\r\n1. 点击右上角的设置按钮，调整好全局设置。\r\n\r\n2. 点击对应的服务器地址。\r\n\r\n3. 滑动列表，找到并点击喜欢的曲目；或点击下方的**搜索**按钮，输入关键词后点击**确认**进行搜索，选择喜欢的曲目。\r\n\r\n4. 点击**选项**按钮调节相关选项。\r\n\r\n5. 选择一个难度，点击**开始**。\r\n\r\n   *如果您之前没有选择皮肤/背景/音效/粒子效果等选项，此时会弹出对话框让您选择。您只需选择喜欢的选项即可。*"
+                }
+            }]
+        },
+		{
+			"name": "server-list",
+			"title": {
+				"zh-cn": "服务器列表",
+				"en-us": "Server List",
+				"ja-jp": "サーバーリスト"
+			},
+			"icon": "mdi-server",
+			"data": [{
+					"type": "content",
+					"content": {
+						"en-us": "**How could I select the perfect server URL?**\r\nIf you do not use Sonolus in China, just use **Official test line**.\r\nIf you use Sonolus in China, try **Official test line** first, or use one of lines which location are China if you can't reach the **Official test line**.",
+						"zh-cn": "**我该怎么选择服务器地址？**\r\n如果你在中国以外的地区使用Sonolus，只需要使用**官方测试线路**即可。\r\n如果你在中国使用Sonolus，请先尝试使用**官方测试线路**，如果连接不上，再使用下方的中国地区线路之一。"
+					}
+				},{
+					"type": "server_card",
+					"name": {
+						"zh-cn": "性能测试服务器",
+						"en-us": "Performance test server"
+					},
+					"icon": "img: icons/icon.png",
+					"address": [{
+							"location": "cloudflare",
+							"description": {
+								"zh-cn": "官方测试线路",
+								"en-us": "Official test line"
+							},
+							"value": "https://sonolus.com/performance",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/performance",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": {
+						"en-us": "Greedy Snake",
+						"zh-cn": "贪吃蛇"
+					},
+					"icon": "img: icons/icon.png",
+					"address": [{
+							"location": "us",
+							"description": {
+								"en-us": "Greedy Snake",
+								"zh-cn": "贪吃蛇"
+							},
+							"value": "https://qwewqa.github.io/sonolus-test-server/",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": {
+								"en-us": "Greedy Snake",
+								"zh-cn": "贪吃蛇"
+							},
+							"value": "http://reikohaku.gitee.io/qwewqa_snake",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": {
+					    "ja-jp": "プロジェクトセカイ-カラフルステージ！feat. 初音ミク",
+					    "zh-cn": "世界计划 多彩舞台！feat. 初音未来",
+					    "en-us": "Project SEKAI Colorful Stage! feat. Hatsune Miku"
+					},
+					"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/pjsekai.png",
+					"address": [{
+							"location": "us",
+							"description": {
+								"zh-cn": "开发者搭建的Herokuapp",
+								"en-us": "Herokuapp"
+							},
+							"value": "https://colorfulstage.herokuapp.com/",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/pjs",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线（备用地址）",
+							"value": "http://jiashule.sonolus.reikohaku.fun/pjs",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": {
+						"ja-jp": "ガルパの公式譜面",
+						"zh-cn": "BanG Dream！少女乐团派对",
+						"en-us": "BanG Dream! Girls Band Party!"
+					},
+					"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/bangdream.png",
+					"address": [{
+							"location": "cloudflare",
+							"description": {
+								"zh-cn": "官方测试线路",
+								"en-us": "Official test line"
+							},
+							"value": "https://servers.sonolus.com/0.4.8/bandori",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/bandori",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线（备用地址）",
+							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/bandori",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": {
+						"zh-cn": "Bestdori!自制谱社区",
+						"en-us": "Bestdori! chart community",
+						"ja-jp": "ガルパの創作譜面"
+					},
+					"icon": "img: https://bestdori.com/favicon.ico",
+					"address": [{
+							"location": "cloudflare",
+							"description": {
+								"zh-cn": "官方测试线路",
+								"en-us": "Official test line"
+							},
+							"value": "https://servers.sonolus.com/0.4.8/bestdori",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/bestdori",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线（备用地址）",
+							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/bestdori",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[可按谱师搜索]国内加速一线",
+							"value": "http://sonolus.ayachan.fun/0.4.8/bestdori",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": {
+						"zh-cn": "LoveLive!学园偶像祭",
+						"en-us": "Lovelive! School Idol Festival",
+						"ja-jp": "スクフェスの公式譜面"
+					},
+					"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/llsif.png",
+					"address": [{
+							"location": "cloudflare",
+							"description": {
+								"zh-cn": "官方测试线路",
+								"en-us": "Official test line"
+							},
+							"value": "https://servers.sonolus.com/0.4.8/llsif",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/llsif",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线（备用地址）",
+							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/llsif",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": {
+						"zh-cn": "LLSIF自制谱",
+						"en-us": "SIF Community",
+						"ja-jp": "スクフェスの創作譜面（一部のみ）"
+					},
+					"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/llicon.png",
+					"address": [{
+							"location": "cloudflare",
+							"description": {
+								"zh-cn": "官方测试线路",
+								"en-us": "Official test line"
+							},
+							"value": "https://servers.sonolus.com/0.4.8/sif",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/sif",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线（备用地址）",
+							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/sif",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": {
+						"ja-jp": "22/7 音楽の時間",
+						"zh-cn": "22/7 音乐的时间"
+					},
+					"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/nanaon.png",
+					"address": [{
+							"location": "cloudflare",
+							"description": {
+								"zh-cn": "官方测试线路",
+								"en-us": "Official test line"
+							},
+							"value": "https://servers.sonolus.com/0.4.8/nanaon",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/nanaon",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线（备用地址）",
+							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/nanaon",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": {
+						"ja-jp": "太鼓の達人",
+						"zh-cn": "太鼓达人",
+						"en-us": "Taiko no Tatsujin"
+					},
+					"icon": "img: https://taiko-ch.net/images/top/btn_mobile.jpg",
+					"address": [{
+							"location": "cloudflare",
+							"description": {
+								"zh-cn": "官方测试线路",
+								"en-us": "Official test line"
+							},
+							"value": "https://servers.sonolus.com/0.4.8/taiko",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/taiko",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线（备用地址）",
+							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/taiko",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": "osu!taiko",
+					"icon": "img: https://gitee.com/Pumpkin_233/osu/raw/master/assets/lazer.png",
+					"address": [{
+							"location": "cloudflare",
+							"description": {
+								"zh-cn": "官方测试线路",
+								"en-us": "Official test line"
+							},
+							"value": "https://servers.sonolus.com/0.4.8/taiko-osu",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/taiko-osu",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线（备用地址）",
+							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/taiko-osu",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": {
+						"en-us": "VOEZ",
+						"zh-cn": "兰空 VOEZ"
+					},
+					"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/voez_app.jpg",
+					"address": [{
+							"location": "cloudflare",
+							"description": {
+								"zh-cn": "官方测试线路",
+								"en-us": "Official test line"
+							},
+							"value": "https://servers.sonolus.com/0.4.8/voez",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/voez",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线（备用地址）",
+							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/voez",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": "Deemo",
+					"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/deemo.png",
+					"address": [{
+							"location": "cloudflare",
+							"description": {
+								"zh-cn": "官方测试线路",
+								"en-us": "Official test line"
+							},
+							"value": "https://servers.sonolus.com/0.4.8/deemo",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线",
+							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/deemo",
+							"version": "Alpha 0.4.8"
+						},
+						{
+							"location": "cn",
+							"description": "[知道创宇]国内加速一线（备用地址）",
+							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/deemo",
+							"version": "Alpha 0.4.8"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "q-and-a",
+			"title": {
+				"en-us": "Q&A",
+				"zh-cn": "疑难解答Q&A",
+				"ja-jp": "Q&A"
+			},
+			"icon": "mdi-help",
+			"data": [{
+					"type": "content",
+					"content": {
+						"zh-cn": "### 怎么下载Sonolus？\r\n参阅[快速开始](quick-start)。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"zh-cn": "### iOS不能打开Testflight页面怎么办？\r\n参阅[开始游戏](quick-start#如何下载与安装Sonolus)。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"zh-cn": "### 都有哪些服务器？\r\n参阅[服务器列表](server-list)。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"zh-cn": "### 我该怎么开始游戏？\r\n参阅[开始游戏](quick-start#如何添加一个服务器地址)。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"zh-cn": "### 提示“第1页加载失败”怎么办？\r\n参阅[开始游戏](quick-start#如何添加一个服务器地址)。"
+					}
+				},
+                {
+                    "type": "content",
+                    "content": {
+                        "zh-cn": "### 掉帧/卡顿怎么办？\r\n在**全局设置（右上角）**中降低画质。"
+                    }
+                },
+				{
+					"type": "content",
+					"content": {
+						"zh-cn": "### 为什么我感觉音乐和谱面对不上？\r\n在**全局设置（右上角）**中调整音频延迟，如果有必要也可调整输入延迟。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"zh-cn": "### 我怎么觉得玩起来手感怪怪的？\r\nSonolus的游戏内容全部来自于**你所连接的服务器**——你连接了BanG Dream玩法的服务器，就有BanG Dream玩法的游戏内容，你连接了VOEZ玩法的服务器，就有VOEZ玩法的游戏内容——这意味着你所玩到的只是**模拟本家玩法**的游戏，而非和本家完全一致。\r\n如果您实在不能接受两者之间的差异，还请您下载本家体验。"
+					}
+				}
+			]
+		},
+		{
+			"name": "plans-and-goals",
+			"title": {
+				"zh-cn": "计划与目标",
+				"en-us": "Plans and goals",
+				"ja-jp": "計画と目標"
+			},
+			"icon": "mdi-notebook",
+			"data": [{
+					"type": "content",
+					"content": {
+						"en-us": "**Let's Create Assets Together!**\r\n\r\nWith particle system finished, Sonolus has matured enough graphics wise, and we are looking to make more skins/particles/backgrounds/effects for everyone to use!\r\n\r\nIf you would like to help out making assets, whether it's processing assets from original game or creating your own, take a look at #assets-guide and feel free to discuss in #assets \r\nThe barrier to entry is very low and no high technical requirement, so don't be afraid to give it a try!\r\n\r\nI'd like to see a lot more assets being made and hopefully by the end of this development cycle, we will have a wide range of assets available to play with (Bandori original skins, collab skins, etc)\r\n\r\nFor other players, check the asset lists frequently and you may just find new things available to use!\r\n\r\n(In the future with official server done, everyone will be able to upload their own assets freely and more easily)",
+						"zh-cn": "**让我们一起创作游戏资源吧！**\r\n\r\n随着粒子系统的完成，Sonolus在图形方面已经足够成熟，我们在寻找更多的皮肤/粒子/背景/音效供大家使用！\r\n\r\n如果您想要帮助制作游戏资源。不论是处理原本游戏中的资源还是创作自己的游戏资源，请参阅[相关说明](assets-guide)，并在相关群/频道内讨论。\r\n门槛很低，技术要求也不高，所以不要害怕，来试一试！\r\n\r\n我们很高兴能看到更多的游戏资源能被制作出来，希望在这个开发周期结束时，我们能有广泛的游戏资源可供使用（Bandori原版皮肤、collab皮肤等）\r\n\r\n至于其它玩家，经常看看游戏资源列表，你可能会有新的惊喜！\r\n\r\n（等以后有了官方服务器，每个人都可以更轻松、自由地上传自己的游戏资源）"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"en-us": "**Offline Mode, Favorites, etc**\r\n\r\nCurrently only the larger downloads are cached (audios and images) while the rest need to be obtained from server.\r\nWhile it only costs a few KB of data (that's smaller than opening a webpage!) to play each cached level, there is definitely a need for a true offline mode.\r\n\r\nWith offline mode caching enough information to play without an active network connection, features like saving levels to favorites would also be possible.",
+						"zh-cn": "**离线模式、收藏夹等**\r\n\r\n\r\n\r\n目前只有较大的资源会被缓存（音频和图像），而其余的需要从服务器获取。\r\n\r\n虽然它只需要几KB的数据（这比打开一个网页还要小），但要游玩每个缓存关卡，绝对需要一个真正的离线模式。\r\n\r\n\r\n\r\n离线模式缓存足够的信息，在没有网络连接的情况下也可以游玩，比如将关卡保存到收藏夹。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"en-us": "**Editor Support**\r\n\r\nLike levels, editors will be scripted in very much the same way and enjoy the same benefits as scripted levels.\r\nRather than worrying about technical details like audio syncing, UI, distribution, etc, you can instead focus on building your editor and creating the best experience for charters to create levels with your engine.\r\n\r\nJust like scripted levels are cross platform playable for both iOS and Android, scripted editors will be as well.\r\nAdditionally, Windows/macOS/Linux versions of Sonolus will also be made to allow charting on PC.",
+						"zh-cn": "**编辑器支持**\r\n\r\n\r\n\r\n编辑器可以用类似于编写关卡的方式，通过编写脚本来构建，并拥有与脚本化关卡相同的优点。\r\n\r\n与其担心音频同步、用户界面、分发等技术细节，不如专注于构建编辑器，为谱师编写引擎所用的谱面提供最佳体验。\r\n\r\n\r\n\r\n就像脚本化的关卡可以跨平台在iOS和Android上游玩一样，脚本化编辑器也可以。\r\n\r\n此外，Sonolus的Windows/macOS/Linux版本也将允许在PC上编写谱面。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"en-us": "**Single Unified Official Server and Charting Community**\r\n\r\nThere are many inconveniences with the current servers no doubt, however that's simply a temporary solution.\r\nFor curious developers, it's much easier to host your own local server and tinker with it. It is also very easy to make proxy servers (like the ones we have now) at no running cost.\r\n\r\nOnce editor has matured enough, we can then move onto one single unified official server and charting community.\r\nDevelopers will be able to create, upload, and share their engines and editors to be used by charters; charters will be able to do the same with their own levels; and players will have near unlimited amount of levels to play each with their interesting take on rhythm game mechanics.",
+						"zh-cn": "**统一的官方服务器和谱面社区**\r\n\r\n\r\n\r\n毫无疑问，当前的服务器连接方式有许多不便之处，但这只是暂时的解决方案。\r\n\r\n对于许多的开发人员来说，托管自己的本地服务器并修复它要容易得多。构建代理服务器（就像我们现在拥有的那样）也非常容易，而且不需要运行成本。\r\n\r\n\r\n\r\n一旦编辑器足够成熟，我们就可以迁移到一个统一的官方服务器和谱面社区。\r\n\r\n开发者将能够创建、上传和分享他们的引擎和编辑器给谱师使用；谱师也能制作、上传和分享他们制作的关卡；而玩家将有几乎无限量的关卡来游玩他们的有趣的音乐游戏。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"en-us": "**Multiplayer**\r\n\r\nWhat's more fun than playing alone? Playing with friends!\r\nSuffer through the difficult patterns, laugh about the weird mechanics, share the joy of finally beating it, together with everyone in the room!",
+						"zh-cn": "**多人游戏**\r\n\r\n有什么比自己一个人玩更有趣的？当然是和朋友一起玩！\r\n和房间里的朋友一起，挑战困难的键型，尝试怪异的模式，分享战胜的喜悦吧！"
+					}
+				}
+			]
+		},
+		{
+			"name": "assets-guide",
+			"title": {
+				"en-us": "Assets guide",
+				"zh-cn": "资源制作指导"
+			},
+			"icon": "mdi-navigation",
+			"data": [{
+					"type": "content",
+					"content": {
+						"en-us": "## Guides to Creating Assets for Sonolus\r\nIn here you can find guides related to creating assets for Sonolus.",
+						"zh-cn": "## Sonolus的游戏资源制作指导\r\n在这里你可找到为Sonolus制作游戏资源的相关指导。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"en-us": "#### Creating a Skin\r\n\r\n\r\n<u>Creating a Skin Folder</u>\r\n\r\nThis is to mainly help you organize things, as a skin has many sprites and things get messy real quick.\r\n\r\n\r\n<u>Adding Sprites</u>\r\n\r\nA skin contains many sprites (graphical element) that scripts will use to render on screen.\r\nFor example, sprite id `1001` is a red note head.\r\nA full list of sprites can be found here: https://github.com/NonSpicyBurrito/sonolus-wiki/wiki/Sprites\r\n\r\nTo add a sprite, simply create a sprite image file using any image editing tool of your choice, then name it `<sprite id>.png`. For example, `1001.png` for red note head.\r\nIn situation where multiple sprites look the same, you can use one sprite image file and use , to separate different ids. For example if your red note tick and green note tick look the same, you can use one image and name it `2001,2002.png`\r\n\r\nSprite images should be of appropriate size to avoid pixelation.\r\nNote sprites are typically at least 128x128 pixels.\r\n\r\nIt is strongly recommended to implement all sprites in the list even if some are not used in the intended engine, so that your skin can be used in other engines as well and is at least playable.\r\n\r\n\r\n<u>Packing Skin</u>\r\n\r\nLast step is to pack all sprite images into one final texture, as well as generating skin definition for Sonolus to read.\r\n\r\nYou can do so manually if you prefer, or use the recommended texture packer tool.\r\nInterpolation should be enabled for smooth textures, and disabled for pixel arts.\r\n\r\nWeb version is available at https://sonolus.com/developer/texture-packer/\r\nTo use it, simply select all sprite image files in your skin folder, check/uncheck interpolation, click pack and it should generate both `texture.png` and `skin.json` for download.\r\n\r\nNodejs version is available at https://github.com/NonSpicyBurrito/sonolus-texture-packer\r\nTo use it, execute `node index.js <path-to-skin-folder> [true/false for interpolation]`, and it should generate both `texture.png` and `skin.json` under CWD.",
+						"zh-cn": "#### 制作一款皮肤\r\n\r\n\r\n<u>创建一个皮肤文件夹</u>\r\n\r\n这一步主要帮助您存放文件，因为一个皮肤上有很多的精灵，不这样做很快就会变得凌乱。\r\n\r\n\r\n<u>添加精灵</u>\r\n\r\n一款皮肤包含许多的精灵（图形元素），脚本会将它们渲染到屏幕上。\r\n例如，id为`1001`的精灵是一个红色的按键头。\r\n你可以在[这里](https://github.com/ReiKohaku/Sonolus-wiki-zh_cn/wiki/%E7%B2%BE%E7%81%B5)找到全部精灵的列表。\r\n\r\n想要添加一个精灵，只需要用任意一个图片编辑工具来创建一个精灵图片文件并将其命名为`<精灵id>.png`。例如，红色音符头的文件名是`1001.png`。\r\n如果几个精灵看起来是相同的，你可以使用同一个精灵图片文件，并使用半角逗号（,）来分隔不同的id。例如，如果你的红色和绿色音符节点看起来是一样的，则你可以将一张精灵图片文件命名为`2001,2002.png`。\r\n\r\n精灵图片应该具有适当的大小，以避免模糊不清。\r\n音符精灵图片大小通常至少为128x128像素。\r\n\r\n强烈建议您实现列表中的所有精灵，即使你想要使用的这款皮肤的引擎不包含某些精灵，也是如此。这样可以让您的皮肤在其它的引擎中可以使用——至少可以正常打开游戏。\r\n\r\n\r\n<u>打包皮肤</u>\r\n\r\n最后一步是将所有的精灵图片打包为一个纹理，并生成皮肤清晰度供Sonolus读取。\r\n\r\n如果愿意，您可以手动操作，也可以使用推荐的纹理打包工具。\r\n如果想要让纹理显得平滑，请启用**插值（Interpolation）**选项；如果想要获得像素化的效果，可以禁用。\r\n\r\n您可以[点击这里](https://sonolus.com/developer/texture-packer/)访问Web版应用。\r\n您只需要选中皮肤文件夹里的所有精灵图像文件，并调整**插值**选项，然后点击**打包（Pack）**按钮，它就会生成`texture.png`和`skin.json`以供下载。\r\n\r\n您可以也在[这里](https://github.com/NonSpicyBurrito/sonolus-texture-packer)获取Nodejs版本。\r\n您只需要执行`node index.js <path-to-skin-folder> [是否启用插值: true/false]`，它将在当前工作目录下生成`texture.png`和`skin.json`。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"en-us": "#### Testing a Skin\r\n\r\nYou can either set up a local testing server (recommended if you have a PC) or test on remote server.\r\n\r\n\r\n<u>Set up a Local Test Server</u>\r\n\r\n`TODO`\r\n\r\n\r\n<u>Test on Remote Server</u>\r\n\r\nSimply message @Burrito with both `texture.png` and `skin.json`, and he will upload your skin to the test server for you to test it out.\r\nYou can access the test server in app using: `TODO (link to test server)`",
+						"zh-cn": "#### 测试皮肤\r\n\r\n您可以建立一个本地测试服务器（如果你有自己的电脑，建议如此）或在远程服务器上测试。\r\n\r\n\r\n<u>建立本地测试服务器</u>\r\n\r\n`暂无内容`\r\n\r\n\r\n<u>在远程服务器上测试</u>\r\n\r\n只需要与Burrito私聊或与灵喵私聊，并发送`texture.png`和`skin.json`，您的皮肤将会上传到测试服务器供您测试。\r\n您可以在游戏内访问`暂无内容（测试服务器的链接）`来访问测试服务器。"
+					}
+				},
+				{
+					"type": "content",
+					"content": {
+						"en-us": "## Example Skin for Reference\r\n[Click here to download](https://cdn.discordapp.com/attachments/741221914911178792/741236731487060058/bandori.1.zip)",
+						"zh-cn": "## 供参考的示例皮肤\r\n[点击下载](https://reikohaku.lanzoui.com/iyfiXgaihyf)"
+					}
+				}
+			]
+		},
+		{
+		    "name": "pjsekai",
+			"title": {
+			    "en-us": "PJSekai Download",
+				"zh-cn": "世界计划分流下载点"
+			},
+			"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/pjsekai.png",
+			"data": [
+			    {
+				    "type": "content",
+					"content": {
+					    "zh-cn": "## 世界计画 多彩舞台！feat. 初音未来\r\n*建议前往[Konmai China](https://konmai.cn)下载。*\r\n在这里可以下载世界计划安卓版的安装包，以及跳转到iOS版下载页面。\r\n### 安卓版\r\n*请前往[Konmai China](https://konmai.cn)下载。*\r\n### iOS版\r\n*请记得切换到日区~*\r\n[点击这里](https://apps.apple.com/jp/app/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%BB%E3%82%AB%E3%82%A4-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8-feat-%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/id1489932710)前往对应页面。"
+					}
+				}
+			]
+		},
+		{
+		    "name": "arcaeac",
+			"title": {
+			    "en-us": "Arcaea Download",
+				"zh-cn": "Arcaea（国服）分流下载点"
+			},
+			"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/arcaea.png",
+			"data": [
+			    {
+				    "type": "content",
+					"content": {
+					    "zh-cn": "## Arcaea\r\n*建议前往[Konmai China](https://konmai.cn)下载。"
+					}
+				}
+			]
+		}
+	]
+}

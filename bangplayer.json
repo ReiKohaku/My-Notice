@@ -1,0 +1,50 @@
+[
+    {
+        "time": 1597842675761,
+        "zh": "## BanG Player v2上线了\n\r经过长时间的奋斗，BanG Player v2终于宣告于今晚上线！[点击这里](https://bangplayer.live)前往BanG Player v2！新版的地址很好记：**bangplayer.live**，也欢迎您推荐给朋友使用~\n\rBanG Player v2具有更漂亮的界面和更多的功能，欢迎您来体验~\n\r同时，BanG Player v1将停止更新，您仍可以正常使用，但是作者不会再协助解决您遇到的问题。\n\r谢谢各位一直以来的支持，期待能在v2版本中听到更多大家的声音~"
+    },
+    {
+        "time": 1596616579152,
+        "zh": "## 关于近期的更新预告\n\r各位好。近期作者忙于编写BanGround社区网站，所以暂时搁置了BanG Player的更新。虽然目前BanG Player还存在一些小的使用上的问题，但也趋于稳定，所以最近并没有做出更新。\n\r不过，作者最近正在重构BanG Player，希望能在用户交互体验上有更好的表现。请大家稍稍期待一下，预计最晚本月下旬，新版的BanG Player 2.0就可以和大家见面辣(>ω･* )ﾉ\n\r如果在使用中遇到什么问题，欢迎在gitee上搜索“BanG Player”项目发送issue告诉我，在B站搜索“灵殇影落”找我也是可以哒！\n\rP.S.：关于绿条总是丢的情况，这个是bangbangboom的老问题了……能不能修就看写bangbangboom的椰叶能不能更新了QwQ"
+    },
+    {
+        "time": 1594478254634,
+        "zh": "## 1.4.3版本App下载链接\n\r\n\r[安卓版](https://reikohaku.lanzous.com/iA8mlej08ef)\n\r[（非常不建议使用）iOS版](https://reikohaku.lanzous.com/iNWKQej08cd)\n\riOS用户需要自签安装。\n\riOS版应用在存储路径上存在一些问题，不建议使用。",
+		"en_us": "## 1.4.3 app download link\n\r[Android](https://reikohaku.lanzous.com/iA8mlej08ef)\n\r[(Not recommended)iOS](https://reikohaku.lanzous.com/iNWKQej08cd)\n\riOS users have to make signature by yourselves. There are some problems in the storage path of iOS applications, which is not recommended.",
+		"ja_jp": "## 1.4.3バージョンAppダウンロードリンク\n\r[アンドロイド版](https://reikohaku.lanzous.com/iA8mlej08ef)\n\r[（とてもおすすめできません）iOS版](https://reikohaku.lanzous.com/iNWKQej08cd)\n\riOSのユーザは自分で署名する必要があります。\n\riOS版のアプリケーションは記憶経路に問題があります。使用を推奨しません。"
+    },
+    {
+        "time": 1594478513677,
+        "zh": "## 致歉\n\r由于我的工作失误，新的上海线路在网页端暂时不能使用，可以使用时我会另行通知。感谢您的谅解。",
+		"en_us": "## Apology announcement\n\rDue to my work error, the new Shanghai line is temporarily unavailable in the webpage. I will inform you when it can be used. Thank you for your understanding.",
+		"ja_jp": "## 陳謝公告\n\r私の仕事のミスで、新しい上海の路線はホームページ版では使えません。使用できる時は別途お知らせします。ご了承ありがとうございます。"
+    },
+    {
+	    "time": 1594478254634,
+		"zh": "## BanG Player v1.4.3已更新\n\r本次更新的内容：\n\r* 新增加载进度显示\n\r* 优化列表加载逻辑，现在只有在每次打开功能窗口时列表才会加载\n\r* 修复不能一键已读的问题\n\r* 新增线路：中国-上海（5Mbps）和法国（双工100Mbps）\n\r* 新增线路测速功能",
+		"en_us": "## BanG Player v1.4.3 updated\n\rWhat's new:\n\r* New function: display loading progress when start a game\n\r* Optimize the list loading logic. Now the list will be loaded only when the function window is opened\"\n\r* Fix a problem that cannot mark all as read\n\r* New proxy lines: China Shanghai (5Mbps) and France (100Mbps duplex)\n\r* New function: proxy line speed measurement",
+		"ja_jp": "## BanG Player v 1.4.3はすでに更新しました\n\r今回の更新の内容：\n\r* 読み込みの進捗表示を追加します\n\r* 最適化リストロードロジックは、機能ウィンドウを開くたびにリストが読み込まれます\n\r* 一度に既読状態をマークできない問題を修正します\n\r* 新規回線：中国-上海（5 Mbps）とフランス（デュプレクス100 Mbps）\n\r* 回線速度測定機能の追加"
+	},
+    {
+        "time": 1594478254634,
+        "zh": "## 关于App版的说明\n\r近期很多同学告诉我说App版掉帧，在这里统一做一次说明。\n\rBanG Player我推荐运行环境是：安卓9及以上，Chrome浏览器版本≥74，**不推荐使用手机自带浏览器（虽然它的内核版本可能和Chrome浏览器相差无几）、QQ浏览器、UC浏览器**；iOS近几年的设备都可以流畅运行。**但这个推荐指的是网页端，也就是你通过https://reikohaku.gitee.io/bang-player 进行访问和游玩的推荐配置。**\n\rApp版是使用HBuilderX打包为5+App的版本，**在功能上和在线版没有任何差异（只是便捷地支持了离线运行），甚至更新速度上在线版更胜一筹。**App版只是提供了一个**便捷的离线版本**，BanG Pack的制作目的之一就是可以互相分享和离线游玩。但是，**5+App的运行性能并不优于在Chrome浏览器中运行，甚至更差。**我的建议是，将BanG Player保存到浏览器的收藏夹里，随玩随开。当然如果你能够流畅运行App版本，确实在某些方面会方便一些。"
+    },
+    {
+	    "time": 1593492954762,
+		"zh": "## BanG Player v1.4.2已更新\n\r本次更新的内容：\n\r* 将判定难度修正为与本家相同\n\r* 新增“某科学的超电磁炮T”皮肤\n\r* 修复自动全屏失败时不能进入游戏的问题",
+		"en_us": "## BanG Player v1.4.2 updated\n\rWhat's new:\n\r* Fix judge time same as official\n\r* New skin:\"A Certain Scientific Railgun T\"\n\r* Fix the problem that can not play game when enable fullscreen automatically failed",
+		"ja_jp": "## BanG Player v 1.4.2はすでに更新しました\n\r今回の更新の内容：\n\r* 判定難易度を本家と同じに修正します\n\r* 外観を追加「とある科学の超電磁砲T」\n\r* 自動フルスクリーンが失敗した時にゲームに入れない問題が修復されました"
+	},
+    {
+	    "time": 1592579740730,
+		"zh": "## BanG Player v1.4.1已更新\n\r本次更新的内容：\n\r* 修复设置不能保存的问题",
+		"en_us": "## BanG Player v1.4.1 updated\n\rWhat's new:\n\r* Fix the problem of options cannot be saved",
+		"ja_jp": "## BanG Player v 1.4.1はすでに更新しました\n\r今回の更新の内容：\n\r* 設定が保存できない問題を修復します。"
+	},
+    {
+	    "time": 1592558513581,
+		"zh": "## BanG Player v1.4已更新\n\r本次更新的内容：\n\r* 修复乐队不存在时，信息读取异常的问题\n\r* 调整歌曲列表的样式\n\r* 调整外观样式\n\r* 图标迭代",
+		"en_us": "## BanG Player v1.4 updated\n\rWhat's new:\n\r* Fix the problem of data reading when the band does not exist \n\r* Change the style of the song list\n\r* Change appearance style\n\r* Change icon",
+		"ja_jp": "## BanG Player v 1.4はすでに更新しました\n\r今回の更新の内容：\n\r* バンドが存在しない場合、異常な情報読み込みの問題を修正します\n\r* 曲リストのスタイルを調整します\n\r* 外観の調整\n\r* アイコンの変更"
+	}
+]

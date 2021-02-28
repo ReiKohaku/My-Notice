@@ -1,0 +1,320 @@
+{
+    "version": "Alpha 0.4.5",
+	"servers": [
+        {
+            "name": {
+                "zh-cn": "性能测试服务器",
+                "en-us": "Performance test server"
+            },
+            "icon": "img: http://sonolus.reikohaku.fun/res/icon.png",
+            "address": [
+                {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://sonolus.com/performance",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/performance",
+					"version": "Alpha 0.4.5"
+				}
+            ]
+        },
+	    {
+		    "name": {
+			    "zh-cn": "BanG Dream！少女乐团派对",
+				"en-us": "BanG Dream! Girls Band Party!"
+			},
+			"icon": "img: https://img.moegirl.org/common/5/55/BanGDreamGBP4.1.jpg.png",
+			"address": [
+			    {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://servers.sonolus.com/0.4.5/bandori",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/servers/0.4.5/bandori",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "@Maverick 的绝赞高速反代线路",
+					"value": "https://minasan.xyz/servers/0.4.5/bandori",
+					"version": "Alpha 0.4.5"
+				}
+			]
+		},
+        {
+		    "name": {
+			    "zh-cn": "BanG Dream！少女乐团派对（原版判定）",
+				"en-us": "BanG Dream! Girls Band Party!(Original Judgement)"
+			},
+			"icon": "img: https://img.moegirl.org/common/5/55/BanGDreamGBP4.1.jpg.png",
+			"address": [
+			    {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://servers.sonolus.com/0.4.5/bandori-og",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/servers/0.4.5/bandori-og",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "@Maverick 的绝赞高速反代线路",
+					"value": "https://minasan.xyz/servers/0.4.5/bandori-og",
+					"version": "Alpha 0.4.5"
+				}
+			]
+		},
+		{
+		    "name": "Bestdori!",
+			"icon": "img: https://bestdori.com/favicon.ico",
+			"address": [
+			    {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://servers.sonolus.com/0.4.5/bestdori",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/servers/0.4.5/bestdori",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "@Maverick 的绝赞高速反代线路",
+					"value": "https://minasan.xyz/servers/0.4.5/bestdori",
+					"version": "Alpha 0.4.5"
+				}
+			]
+		},
+        {
+		    "name": {
+			    "zh-cn": "Bestdori!（原版判定）",
+				"en-us": "Bestdori!(Original Judgement)"
+			},
+			"icon": "img: https://bestdori.com/favicon.ico",
+			"address": [
+			    {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://servers.sonolus.com/0.4.5/bestdori-og",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/servers/0.4.5/bestdori-og",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "@Maverick 的绝赞高速反代线路",
+					"value": "https://minasan.xyz/servers/0.4.5/bestdori-og",
+					"version": "Alpha 0.4.5"
+				}
+			]
+		},
+		{
+		    "name": {
+			    "zh-cn": "LoveLive!学园偶像祭",
+				"en-us": "Lovelive! School Idol Festival"
+			},
+			"icon": "img: https://img.moegirl.org/common/thumb/7/7a/LLSIFver5.png/263px-LLSIFver5.png",
+			"address": [
+			    {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://servers.sonolus.com/0.4.5/llsif",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/servers/0.4.5/llsif",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "@Maverick 的绝赞高速反代线路",
+					"value": "https://minasan.xyz/servers/0.4.5/llsif",
+					"version": "Alpha 0.4.5"
+				}
+			]
+		},
+		{
+		    "name": "LLSIF自制谱",
+			"icon": "img: https://img.moegirl.org/common/thumb/7/7a/LLSIFver5.png/263px-LLSIFver5.png",
+			"address": [
+			    {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://servers.sonolus.com/0.4.5/sif",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/servers/0.4.5/sif",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "@Maverick 的绝赞高速反代线路",
+					"value": "https://minasan.xyz/servers/0.4.5/sif",
+					"version": "Alpha 0.4.5"
+				}
+			]
+		},
+		{
+		    "name": {
+			    "ja-jp": "22/7 音楽の時間",
+			    "zh-cn": "22/7 音乐的时间"
+			},
+			"icon": "img: https://img.moegirl.org/common/thumb/8/8c/Ongakunojikan.png/450px-Ongakunojikan.png",
+			"address": [
+			    {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://servers.sonolus.com/0.4.5/nanaon",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/servers/0.4.5/nanaon",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "@Maverick 的绝赞高速反代线路",
+					"value": "https://minasan.xyz/servers/0.4.5/nanaon",
+					"version": "Alpha 0.4.5"
+				}
+			]
+		},
+		{
+		    "name": {
+			    "ja-jp": "太鼓の達人",
+			    "zh-cn": "太鼓达人"
+			},
+			"icon": "img: https://taiko-ch.net/images/top/btn_mobile.jpg",
+			"address": [
+			    {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://servers.sonolus.com/0.4.5/taiko",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/servers/0.4.5/taiko",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "@Maverick 的绝赞高速反代线路",
+					"value": "https://minasan.xyz/servers/0.4.5/taiko",
+					"version": "Alpha 0.4.5"
+				}
+			]
+		},
+		{
+		    "name": {
+			    "en-us": "VOEZ",
+			    "zh-cn": "兰空 VOEZ"
+			},
+			"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/voez_app.jpg",
+			"address": [
+			    {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://servers.sonolus.com/0.4.5/voez",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/servers/0.4.5/voez",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "@Maverick 的绝赞高速反代线路",
+					"value": "https://minasan.xyz/servers/0.4.5/voez",
+					"version": "Alpha 0.4.5"
+				}
+			]
+		},
+		{
+		    "name": "Deemo",
+			"icon": "img: https://img.moegirl.org/common/thumb/0/08/Deemo_Icon3.0.png/300px-Deemo_Icon3.0.png",
+			"address": [
+			    {
+				    "location": "cloudflare",
+					"description": {
+					    "zh-cn": "官方测试线路",
+						"en-us": "Official test line"
+					},
+					"value": "https://servers.sonolus.com/0.4.5/deemo",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "官方测试线路（国内）",
+					"value": "https://sonolus.reikohaku.fun/servers/0.4.5/deemo",
+					"version": "Alpha 0.4.5"
+				},
+				{
+				    "location": "cn",
+					"description": "@Maverick 的绝赞高速反代线路",
+					"value": "https://minasan.xyz/servers/0.4.5/deemo",
+					"version": "Alpha 0.4.5"
+				}
+			]
+		}
+	]
+}

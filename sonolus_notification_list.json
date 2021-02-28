@@ -1,0 +1,52 @@
+{
+    "notifications": [
+        {
+            "en-us": "## 0.4.5 What's New\r\n* Added **DrawCurvedL**, **DrawCurvedR**, **DrawCurvedLR**, **DrawCurvedB**, **DrawCurvedT**, and **DrawCurvedBT**.\r\n* Added pause menu with control and snapshot.\r\n* Changed to use GPU particle system by default.\r\n* Disabled \"Preserve BGM pitch\" mixer when audio is a natural speed.\r\n* Fixed particle effect flickering.",
+            "zh-cn": "## 0.4.5更新日志\r\n* 添加了**DrawCurvedL**，**DrawCurvedR**，**DrawCurvedLR**，**DrawCurvedB**，**DrawCurvedT和DrawCurvedBT。\r\n* 添加了带有控制功能和快照的暂停菜单。\r\n* 将使用GPU粒子系统设为默认值。\r\n* 当音频使用自然速度时，禁用“保留BGM音调”选项。\r\n* 修复了粒子效果闪烁的问题。"
+        },
+        {
+            "en-us": "## 0.4.4(2) What's New\r\n* Fixed **DestroyParticleEffect** not working in the same frame as the particle being spawned.",
+            "zh-cn": "## 0.4.4(2)更新日志\r\n* 修复了**DestroyParticleEffect**无法在与生成的粒子相同的帧中运行的问题。"
+        },
+        {
+            "en-us": "## 0.4.4(1) What's New\r\n* Fixed **shouldSpawn** using incorrect entity index.",
+            "zh-cn": "## 0.4.4(1)更新日志\r\n* 修复**shouldSpawn**函数使用了错误的实体索引的问题。"
+        },
+        {
+            "en-us": "## 0.4.4 What's New\r\n* Added preparation system.\r\n* Fixed touch input vw.\r\n* Fixed **MoveParticleEffect** not working in CPU particle system.",
+            "zh-cn": "## 0.4.4更新日志\r\n* 新增预备系统。\r\n* 修复触摸输入vw。\r\n* 修复**MoveParticleEffect**在CPU粒子系统上不生效的问题。"
+        },
+        {
+            "en-us": "## 0.4.3 What's New\r\n* Added preserve bgm pitch and option.\r\n* Added graphics quality to Level Data block.\r\n* Fixed touch input starting position and starting velocity.",
+            "zh-cn": "## 0.4.3更新日志\r\n* 新增了变速音调保持选项\r\n* 新增了关卡的图形调节选项\r\n* 修复了触摸输入起始点和移动速度存在的问题"
+        },
+        {
+            "en-us": "## 0.4.2 What's New\r\n* Added graphics quality option.\r\n* Added safe area protection for notched devices and option to disable it.\r\n* Added CPU based particle system and option to disable it.\r\n* Improved particle system performance by changing particle rendering to affine transformation.\n\r* Fixed particle effect occasional flickering.",
+            "zh-cn": "## 0.4.2更新日志\r\n* 新增了图形质量调节选项\r\n* 新增了刘海屏的安全区调节选项\r\n* 新增了基于CPU的粒子系统的选项\r\n* 通过将粒子渲染的方式变为仿射变换来增进粒子系统的性能\r\n* 修复了偶尔出现的粒子效果闪烁的问题"
+        },
+        {
+            "en-us": "**Let's Create Assets Together!**\r\n\r\nWith particle system finished, Sonolus has matured enough graphics wise, and we are looking to make more skins/particles/backgrounds/effects for everyone to use!\r\n\r\nIf you would like to help out making assets, whether it's processing assets from original game or creating your own, take a look at #assets-guide and feel free to discuss in #assets \r\nThe barrier to entry is very low and no high technical requirement, so don't be afraid to give it a try!\r\n\r\nI'd like to see a lot more assets being made and hopefully by the end of this development cycle, we will have a wide range of assets available to play with (Bandori original skins, collab skins, etc)\r\n\r\nFor other players, check the asset lists frequently and you may just find new things available to use!\r\n\r\n(In the future with official server done, everyone will be able to upload their own assets freely and more easily)",
+            "zh-cn": "**让我们一起创作游戏资源吧！**\r\n\r\n随着粒子系统的完成，Sonolus在图形方面已经足够成熟，我们在寻找更多的皮肤/粒子/背景/音效供大家使用！\r\n\r\n如果您想要帮助制作游戏资源。不论是处理原本游戏中的资源还是创作自己的游戏资源，请参阅[相关说明](assets-guide)，并在相关群/频道内讨论。\r\n门槛很低，技术要求也不高，所以不要害怕，来试一试！\r\n\r\n我们很高兴能看到更多的游戏资源能被制作出来，希望在这个开发周期结束时，我们能有广泛的游戏资源可供使用（Bandori原版皮肤、collab皮肤等）\r\n\r\n至于其它玩家，经常看看游戏资源列表，你可能会有新的惊喜！\r\n\r\n（等以后有了官方服务器，每个人都可以更轻松、自由地上传自己的游戏资源）"
+        },
+        {
+            "en-us": "**Curved Sprite Drawing Support**\r\n\r\nCurrently graphics is done by drawing quadrilateral shaped sprites, and the obvious limitation here is that you cannot draw a curved sprite natively.\r\nA current workaround would be to draw it in many small segments. However, not only that is rather bad performance wise, it also requires the sprite texture to be repeatable in curved direction, which is not often the case.\r\n\r\nBy adding native support to define your curved quadrilateral (using bezier curve with 3 control points to curve each edge) and offload the heavy lifting to Sonolus engine itself, it would allow for even more possibilities.",
+            "zh-cn": "**曲线精灵绘制支持**\r\n\r\n\r\n\r\n目前的图形是通过绘制四边形的精灵来完成的，这有一个明显的限制：你不能绘制一个弯曲形状的精灵。\r\n\r\n目前的解决方法是将其分成许多小段。然而，这不仅会带来相当糟糕的性能问题，它还要求精灵纹理在弯曲方向上是可重复的，而这并不是一个常见的情况。\r\n\r\n\r\n\r\n通过添加本地支持来定义你的曲线四边形（使用贝塞尔曲线和3个控制点来弯曲每条边），并将繁重的工作交给到Sonolus引擎本身，它将带来更多的可能性。"
+        },
+        {
+            "en-us": "**Offline Mode, Favorites, etc**\r\n\r\nCurrently only the larger downloads are cached (audios and images) while the rest need to be obtained from server.\r\nWhile it only costs a few KB of data (that's smaller than opening a webpage!) to play each cached level, there is definitely a need for a true offline mode.\r\n\r\nWith offline mode caching enough information to play without an active network connection, features like saving levels to favorites would also be possible.",
+            "zh-cn": "**离线模式、收藏夹等**\r\n\r\n\r\n\r\n目前只有较大的资源会被缓存（音频和图像），而其余的需要从服务器获取。\r\n\r\n虽然它只需要几KB的数据（这比打开一个网页还要小），但要游玩每个缓存关卡，绝对需要一个真正的离线模式。\r\n\r\n\r\n\r\n离线模式缓存足够的信息，在没有网络连接的情况下也可以游玩，比如将关卡保存到收藏夹。"
+        },
+        {
+            "en-us": "**Editor Support**\r\n\r\nLike levels, editors will be scripted in very much the same way and enjoy the same benefits as scripted levels.\r\nRather than worrying about technical details like audio syncing, UI, distribution, etc, you can instead focus on building your editor and creating the best experience for charters to create levels with your engine.\r\n\r\nJust like scripted levels are cross platform playable for both iOS and Android, scripted editors will be as well.\r\nAdditionally, Windows/macOS/Linux versions of Sonolus will also be made to allow charting on PC.",
+            "zh-cn": "**编辑器支持**\r\n\r\n\r\n\r\n编辑器可以用类似于编写关卡的方式，通过编写脚本来构建，并拥有与脚本化关卡相同的优点。\r\n\r\n与其担心音频同步、用户界面、分发等技术细节，不如专注于构建编辑器，为谱师编写引擎所用的谱面提供最佳体验。\r\n\r\n\r\n\r\n就像脚本化的关卡可以跨平台在iOS和Android上游玩一样，脚本化编辑器也可以。\r\n\r\n此外，Sonolus的Windows/macOS/Linux版本也将允许在PC上编写谱面。"
+        },
+        {
+            "en-us": "**Single Unified Official Server and Charting Community**\r\n\r\nThere are many inconveniences with the current servers no doubt, however that's simply a temporary solution.\r\nFor curious developers, it's much easier to host your own local server and tinker with it. It is also very easy to make proxy servers (like the ones we have now) at no running cost.\r\n\r\nOnce editor has matured enough, we can then move onto one single unified official server and charting community.\r\nDevelopers will be able to create, upload, and share their engines and editors to be used by charters; charters will be able to do the same with their own levels; and players will have near unlimited amount of levels to play each with their interesting take on rhythm game mechanics.",
+            "zh-cn": "**统一的官方服务器和谱面社区**\r\n\r\n\r\n\r\n毫无疑问，当前的服务器连接方式有许多不便之处，但这只是暂时的解决方案。\r\n\r\n对于许多的开发人员来说，托管自己的本地服务器并修复它要容易得多。构建代理服务器（就像我们现在拥有的那样）也非常容易，而且不需要运行成本。\r\n\r\n\r\n\r\n一旦编辑器足够成熟，我们就可以迁移到一个统一的官方服务器和谱面社区。\r\n\r\n开发者将能够创建、上传和分享他们的引擎和编辑器给谱师使用；谱师也能制作、上传和分享他们制作的关卡；而玩家将有几乎无限量的关卡来游玩他们的有趣的音乐游戏。"
+        },
+        {
+            "en-us": "**Multiplayer**\r\n\r\nWhat's more fun than playing alone? Playing with friends!\r\nSuffer through the difficult patterns, laugh about the weird mechanics, share the joy of finally beating it, together with everyone in the room!",
+            "zh-cn": "**多人游戏**\r\n\r\n有什么比自己一个人玩更有趣的？当然是和朋友一起玩！\r\n和房间里的朋友一起，挑战困难的键型，尝试怪异的模式，分享战胜的喜悦吧！"
+        }
+	]
+}
