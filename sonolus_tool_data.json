@@ -561,7 +561,7 @@
 			    "en-us": "Sonolus Test",
 				"zh-cn": "Sonolus内测"
 			},
-			"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/arcaea.png",
+			"icon": "img: https://tool.sonolus.reikohaku.fun/icons/icon.png",
 			"data": [
 			    {
 				    "type": "content",
