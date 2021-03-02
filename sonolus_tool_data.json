@@ -167,8 +167,8 @@
 						{
 							"location": "cn",
 							"description": "[可按谱师搜索]国内加速一线",
-							"value": "http://sonolus.ayachan.fun/0.4.8/bestdori",
-							"version": "Alpha 0.4.8"
+							"value": "http://sonolus.ayachan.fun/bestdori/",
+							"version": "Alpha 0.5.0"
 						}
 					]
 				},
