@@ -113,12 +113,6 @@
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/pjs",
 							"version": "Alpha 0.4.8"
-						},
-						{
-							"location": "cn",
-							"description": "[知道创宇]国内加速一线（备用地址）",
-							"value": "http://jiashule.sonolus.reikohaku.fun/pjs",
-							"version": "Alpha 0.4.8"
 						}
 					]
 				},
@@ -144,12 +138,6 @@
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/bandori",
 							"version": "Alpha 0.4.8"
-						},
-						{
-							"location": "cn",
-							"description": "[知道创宇]国内加速一线（备用地址）",
-							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/bandori",
-							"version": "Alpha 0.4.8"
 						}
 					]
 				},
@@ -174,12 +162,6 @@
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/bestdori",
-							"version": "Alpha 0.4.8"
-						},
-						{
-							"location": "cn",
-							"description": "[知道创宇]国内加速一线（备用地址）",
-							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/bestdori",
 							"version": "Alpha 0.4.8"
 						},
 						{
@@ -212,12 +194,6 @@
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/llsif",
 							"version": "Alpha 0.4.8"
-						},
-						{
-							"location": "cn",
-							"description": "[知道创宇]国内加速一线（备用地址）",
-							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/llsif",
-							"version": "Alpha 0.4.8"
 						}
 					]
 				},
@@ -243,12 +219,6 @@
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/sif",
 							"version": "Alpha 0.4.8"
-						},
-						{
-							"location": "cn",
-							"description": "[知道创宇]国内加速一线（备用地址）",
-							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/sif",
-							"version": "Alpha 0.4.8"
 						}
 					]
 				},
@@ -272,12 +242,6 @@
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/nanaon",
-							"version": "Alpha 0.4.8"
-						},
-						{
-							"location": "cn",
-							"description": "[知道创宇]国内加速一线（备用地址）",
-							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/nanaon",
 							"version": "Alpha 0.4.8"
 						}
 					]
@@ -304,12 +268,6 @@
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/taiko",
 							"version": "Alpha 0.4.8"
-						},
-						{
-							"location": "cn",
-							"description": "[知道创宇]国内加速一线（备用地址）",
-							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/taiko",
-							"version": "Alpha 0.4.8"
 						}
 					]
 				},
@@ -330,12 +288,6 @@
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/taiko-osu",
-							"version": "Alpha 0.4.8"
-						},
-						{
-							"location": "cn",
-							"description": "[知道创宇]国内加速一线（备用地址）",
-							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/taiko-osu",
 							"version": "Alpha 0.4.8"
 						}
 					]
@@ -361,12 +313,6 @@
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/voez",
 							"version": "Alpha 0.4.8"
-						},
-						{
-							"location": "cn",
-							"description": "[知道创宇]国内加速一线（备用地址）",
-							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/voez",
-							"version": "Alpha 0.4.8"
 						}
 					]
 				},
@@ -387,12 +333,6 @@
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/deemo",
-							"version": "Alpha 0.4.8"
-						},
-						{
-							"location": "cn",
-							"description": "[知道创宇]国内加速一线（备用地址）",
-							"value": "http://jiashule.sonolus.reikohaku.fun/servers/0.4.8/deemo",
 							"version": "Alpha 0.4.8"
 						}
 					]
