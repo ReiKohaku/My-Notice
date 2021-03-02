@@ -1,5 +1,5 @@
 {
-	"version": "Alpha 0.4.8",
+	"version": "Alpha 0.5.0",
 	"content": [{
 			"name": "index",
 			"title": {
@@ -11,7 +11,7 @@
 			"data": [{
 				"type": "content",
 				"content": {
-					"zh-cn": "# Sonolus工具站\r\n### 安卓版\r\n[点击这里](https://sonolus.com/download/Sonolus_0.4.8.apk)从官网下载Sonolus 0.4.8\r\n[点击这里](https://sonolus.reikohaku.fun/download/Sonolus_0.4.8.apk)从国内反代站下载Sonolus 0.4.8\r\n### iOS版\r\n[点击这里](https://testflight.apple.com/join/imFzDZcW)前往TestFlight页面\r\n\r\n### 其它\r\n查询服务器列表、更新日志等其它内容，请**点击左上角的按钮展开抽屉**选择查看。\r\n### 推荐工具\r\n#### 系统音频延迟测试（安卓）\r\n[点击下载：超能力 延迟测试 v1.9.1](https://reikohaku.lanzoui.com/iOG98idg0ob)\r\n\r\n此应用提供系统级的音频延迟测试，可在一定程度上为延迟调节提供帮助。\r\n### 友情链接\r\n[Bestdori!](https://bestdori.com)当下最流行的BanG Dream资源库、工具站和自制谱社区。\r\n\r\n[Konmai下载站](https://konmai.cn/)（由@Maverick创办）提供超多音游安卓版安装包的下载，如BanG Dream日/台/国际服、Lanota等。"
+					"zh-cn": "# Sonolus工具站\r\n### 安卓版\r\n[点击这里](https://sonolus.com/download/Sonolus_0.5.0.apk)从官网下载Sonolus 0.5.0\r\n[点击这里](https://sonolus.reikohaku.fun/download/Sonolus_0.4.8.apk)从国内反代站下载Sonolus 0.4.8\r\n### iOS版\r\n[点击这里](https://testflight.apple.com/join/imFzDZcW)前往TestFlight页面\r\n\r\n### 其它\r\n查询服务器列表、更新日志等其它内容，请**点击左上角的按钮展开抽屉**选择查看。\r\n### 推荐工具\r\n#### 系统音频延迟测试（安卓）\r\n[点击下载：超能力 延迟测试 v1.9.1](https://reikohaku.lanzoui.com/iOG98idg0ob)\r\n\r\n此应用提供系统级的音频延迟测试，可在一定程度上为延迟调节提供帮助。\r\n### 友情链接\r\n[Bestdori!](https://bestdori.com)当下最流行的BanG Dream资源库、工具站和自制谱社区。\r\n\r\n[Konmai下载站](https://konmai.cn/)（由@Maverick创办）提供超多音游安卓版安装包的下载，如BanG Dream日/台/国际服、Lanota等。"
 				}
 			}]
 		},
@@ -54,13 +54,13 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://sonolus.com/performance",
-							"version": "Alpha 0.4.8"
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/performance",
-							"version": "Alpha 0.4.8"
+							"version": "Alpha 0.5.0"
 						}
 					]
 				},
@@ -130,14 +130,14 @@
 								"zh-cn": "官方测试线路",
 								"en-us": "Official test line"
 							},
-							"value": "https://servers.sonolus.com/0.4.8/bandori",
-							"version": "Alpha 0.4.8"
+							"value": "https://servers.sonolus.com/bandori",
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
-							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/bandori",
-							"version": "Alpha 0.4.8"
+							"value": "https://sonolus.reikohaku.fun/servers/bandori",
+							"version": "Alpha 0.5.0"
 						}
 					]
 				},
@@ -155,14 +155,14 @@
 								"zh-cn": "官方测试线路",
 								"en-us": "Official test line"
 							},
-							"value": "https://servers.sonolus.com/0.4.8/bestdori",
-							"version": "Alpha 0.4.8"
+							"value": "https://servers.sonolus.com/bestdori",
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
-							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/bestdori",
-							"version": "Alpha 0.4.8"
+							"value": "https://sonolus.reikohaku.fun/servers/bestdori",
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
@@ -186,14 +186,14 @@
 								"zh-cn": "官方测试线路",
 								"en-us": "Official test line"
 							},
-							"value": "https://servers.sonolus.com/0.4.8/llsif",
-							"version": "Alpha 0.4.8"
+							"value": "https://servers.sonolus.com/llsif",
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
-							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/llsif",
-							"version": "Alpha 0.4.8"
+							"value": "https://sonolus.reikohaku.fun/servers/llsif",
+							"version": "Alpha 0.5.0"
 						}
 					]
 				},
@@ -211,14 +211,14 @@
 								"zh-cn": "官方测试线路",
 								"en-us": "Official test line"
 							},
-							"value": "https://servers.sonolus.com/0.4.8/sif",
-							"version": "Alpha 0.4.8"
+							"value": "https://servers.sonolus.com/sif",
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
-							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/sif",
-							"version": "Alpha 0.4.8"
+							"value": "https://sonolus.reikohaku.fun/servers/sif",
+							"version": "Alpha 0.5.0"
 						}
 					]
 				},
@@ -235,14 +235,14 @@
 								"zh-cn": "官方测试线路",
 								"en-us": "Official test line"
 							},
-							"value": "https://servers.sonolus.com/0.4.8/nanaon",
-							"version": "Alpha 0.4.8"
+							"value": "https://servers.sonolus.com/nanaon",
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
-							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/nanaon",
-							"version": "Alpha 0.4.8"
+							"value": "https://sonolus.reikohaku.fun/servers/nanaon",
+							"version": "Alpha 0.5.0"
 						}
 					]
 				},
@@ -260,14 +260,14 @@
 								"zh-cn": "官方测试线路",
 								"en-us": "Official test line"
 							},
-							"value": "https://servers.sonolus.com/0.4.8/taiko",
-							"version": "Alpha 0.4.8"
+							"value": "https://servers.sonolus.com/taiko",
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
-							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/taiko",
-							"version": "Alpha 0.4.8"
+							"value": "https://sonolus.reikohaku.fun/servers/taiko",
+							"version": "Alpha 0.5.0"
 						}
 					]
 				},
@@ -281,14 +281,14 @@
 								"zh-cn": "官方测试线路",
 								"en-us": "Official test line"
 							},
-							"value": "https://servers.sonolus.com/0.4.8/taiko-osu",
-							"version": "Alpha 0.4.8"
+							"value": "https://servers.sonolus.com/taiko-osu",
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
-							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/taiko-osu",
-							"version": "Alpha 0.4.8"
+							"value": "https://sonolus.reikohaku.fun/servers/taiko-osu",
+							"version": "Alpha 0.5.0"
 						}
 					]
 				},
@@ -305,14 +305,14 @@
 								"zh-cn": "官方测试线路",
 								"en-us": "Official test line"
 							},
-							"value": "https://servers.sonolus.com/0.4.8/voez",
-							"version": "Alpha 0.4.8"
+							"value": "https://servers.sonolus.com/voez",
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
-							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/voez",
-							"version": "Alpha 0.4.8"
+							"value": "https://sonolus.reikohaku.fun/servers/voez",
+							"version": "Alpha 0.5.0"
 						}
 					]
 				},
@@ -326,14 +326,14 @@
 								"zh-cn": "官方测试线路",
 								"en-us": "Official test line"
 							},
-							"value": "https://servers.sonolus.com/0.4.8/deemo",
-							"version": "Alpha 0.4.8"
+							"value": "https://servers.sonolus.com/deemo",
+							"version": "Alpha 0.5.0"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
-							"value": "https://sonolus.reikohaku.fun/servers/0.4.8/deemo",
-							"version": "Alpha 0.4.8"
+							"value": "https://sonolus.reikohaku.fun/servers/deemo",
+							"version": "Alpha 0.5.0"
 						}
 					]
 				}
@@ -475,38 +475,6 @@
 					"content": {
 						"en-us": "## Example Skin for Reference\r\n[Click here to download](https://cdn.discordapp.com/attachments/741221914911178792/741236731487060058/bandori.1.zip)",
 						"zh-cn": "## 供参考的示例皮肤\r\n[点击下载](https://reikohaku.lanzoui.com/iyfiXgaihyf)"
-					}
-				}
-			]
-		},
-		{
-		    "name": "pjsekai",
-			"title": {
-			    "en-us": "PJSekai Download",
-				"zh-cn": "世界计划分流下载点"
-			},
-			"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/pjsekai.png",
-			"data": [
-			    {
-				    "type": "content",
-					"content": {
-					    "zh-cn": "## 世界计画 多彩舞台！feat. 初音未来\r\n*建议前往[Konmai China](https://konmai.cn)下载。*\r\n在这里可以下载世界计划安卓版的安装包，以及跳转到iOS版下载页面。\r\n### 安卓版\r\n*请前往[Konmai China](https://konmai.cn)下载。*\r\n### iOS版\r\n*请记得切换到日区~*\r\n[点击这里](https://apps.apple.com/jp/app/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%BB%E3%82%AB%E3%82%A4-%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8-feat-%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/id1489932710)前往对应页面。"
-					}
-				}
-			]
-		},
-		{
-		    "name": "test",
-			"title": {
-			    "en-us": "Sonolus Test",
-				"zh-cn": "Sonolus内测"
-			},
-			"icon": "img: https://tool.sonolus.reikohaku.fun/icons/icon.png",
-			"data": [
-			    {
-				    "type": "content",
-					"content": {
-					    "zh-cn": "想要帮助测试的人，0.5.0rc1发布了。\r它是一个内部测试版本，并非最终的0.5.0版本。官方0.5.0版本的预计发布时间为1到2天后。\r[点击下载](https://reikohaku.lanzous.com/ijI9Vmavykh)\r\r这个测试版本发布的目的是帮助开发者捕获一些关键性的bug，这样开发者就可以在这个主要版本发布之前修复它们。\r如果你愿意**帮助测试**并**报告错误**，并且知道**可能存在影响游戏性的问题**时，才可以下载并试用这个版本！\r\r要使用它：\r- 强烈建议在安装之前卸载旧版本的Sonolus。\r- 只有Android版本可用。\r- 只有英语版本可用。\r- 只有Bandori服务器运行，地址为：https://test.sonolus.com/bandori\r- 由于时间限制，有些功能缺失/不完整，请**私聊群主**报告，以防开发者真正遗漏了这些功能。\r- 如果您遇到明显的性能下降，请尽快报告。此版本不应该对性能有任何影响，如果有，将被视为bug。\r- 也请提出任何你认为合适的反馈或建议，早期的反馈总是有价值的并值得感谢的。\r\r谢谢，好好享受它！"
 					}
 				}
 			]
