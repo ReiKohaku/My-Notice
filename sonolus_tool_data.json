@@ -1,5 +1,5 @@
 {
-	"version": "Alpha 0.5.0",
+	"version": "Alpha 0.5.1",
 	"content": [{
 			"name": "index",
 			"title": {
@@ -11,7 +11,7 @@
 			"data": [{
 				"type": "content",
 				"content": {
-					"zh-cn": "# Sonolus工具站\r\n### 安卓版\r\n[点击这里](https://sonolus.com/download/Sonolus_0.5.0.apk)从官网下载Sonolus 0.5.0\r\n[点击这里](https://sonolus.reikohaku.fun/download/Sonolus_0.5.0.apk)从国内反代站下载Sonolus 0.5.0\r\n### iOS版\r\n[点击这里](https://testflight.apple.com/join/3xQlGT0K)前往TestFlight页面\r\n\r\n### 其它\r\n查询服务器列表、更新日志等其它内容，请**点击左上角的按钮展开抽屉**选择查看。\r\n### 推荐工具\r\n#### 系统音频延迟测试（安卓）\r\n[点击下载：超能力 延迟测试 v1.9.1](https://reikohaku.lanzoui.com/iOG98idg0ob)\r\n\r\n此应用提供系统级的音频延迟测试，可在一定程度上为延迟调节提供帮助。\r\n### 友情链接\r\n[Bestdori!](https://bestdori.com)当下最流行的BanG Dream资源库、工具站和自制谱社区。\r\n\r\n[Konmai下载站](https://konmai.cn/)（由@Maverick创办）提供超多音游安卓版安装包的下载，如BanG Dream日/台/国际服、Lanota等。"
+					"zh-cn": "# Sonolus工具站\r\n### 安卓版\r\n[点击这里](https://sonolus.com/download/Sonolus_0.5.1.apk)从官网下载Sonolus 0.5.1\r\n[点击这里](https://sonolus.reikohaku.fun/download/Sonolus_0.5.1.apk)从国内反代站下载Sonolus 0.5.1\r\n### iOS版\r\n[点击这里](https://testflight.apple.com/join/3xQlGT0K)前往TestFlight页面\r\n\r\n### 其它\r\n查询服务器列表、更新日志等其它内容，请**点击左上角的按钮展开抽屉**选择查看。\r\n### 推荐工具\r\n#### 系统音频延迟测试（安卓）\r\n[点击下载：超能力 延迟测试 v1.9.1](https://reikohaku.lanzoui.com/iOG98idg0ob)\r\n\r\n此应用提供系统级的音频延迟测试，可在一定程度上为延迟调节提供帮助。\r\n### 友情链接\r\n[Bestdori!](https://bestdori.com)当下最流行的BanG Dream资源库、工具站和自制谱社区。\r\n\r\n[Konmai下载站](https://konmai.cn/)（由@Maverick创办）提供超多音游安卓版安装包的下载，如BanG Dream日/台/国际服、Lanota等。"
 				}
 			}]
 		},
@@ -54,13 +54,13 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://sonolus.com/performance",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/performance",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				},
@@ -131,13 +131,13 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/bandori",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/bandori",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				},
@@ -156,19 +156,19 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/bestdori",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/bestdori",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[可按谱师搜索]国内加速一线",
 							"value": "http://sonolus.ayachan.fun/bestdori/",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				},
@@ -187,13 +187,13 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/llsif",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/llsif",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				},
@@ -212,13 +212,13 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/sif",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/sif",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				},
@@ -236,13 +236,13 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/nanaon",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/nanaon",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				},
@@ -261,13 +261,13 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/taiko",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/taiko",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				},
@@ -282,13 +282,13 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/taiko-osu",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/taiko-osu",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				},
@@ -306,13 +306,13 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/voez",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/voez",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				},
@@ -327,13 +327,13 @@
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/deemo",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/servers/deemo",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				}
@@ -410,13 +410,6 @@
 					"content": {
 						"en-us": "**Let's Create Assets Together!**\r\n\r\nWith particle system finished, Sonolus has matured enough graphics wise, and we are looking to make more skins/particles/backgrounds/effects for everyone to use!\r\n\r\nIf you would like to help out making assets, whether it's processing assets from original game or creating your own, take a look at #assets-guide and feel free to discuss in #assets \r\nThe barrier to entry is very low and no high technical requirement, so don't be afraid to give it a try!\r\n\r\nI'd like to see a lot more assets being made and hopefully by the end of this development cycle, we will have a wide range of assets available to play with (Bandori original skins, collab skins, etc)\r\n\r\nFor other players, check the asset lists frequently and you may just find new things available to use!\r\n\r\n(In the future with official server done, everyone will be able to upload their own assets freely and more easily)",
 						"zh-cn": "**让我们一起创作游戏资源吧！**\r\n\r\n随着粒子系统的完成，Sonolus在图形方面已经足够成熟，我们在寻找更多的皮肤/粒子/背景/音效供大家使用！\r\n\r\n如果您想要帮助制作游戏资源。不论是处理原本游戏中的资源还是创作自己的游戏资源，请参阅[相关说明](assets-guide)，并在相关群/频道内讨论。\r\n门槛很低，技术要求也不高，所以不要害怕，来试一试！\r\n\r\n我们很高兴能看到更多的游戏资源能被制作出来，希望在这个开发周期结束时，我们能有广泛的游戏资源可供使用（Bandori原版皮肤、collab皮肤等）\r\n\r\n至于其它玩家，经常看看游戏资源列表，你可能会有新的惊喜！\r\n\r\n（等以后有了官方服务器，每个人都可以更轻松、自由地上传自己的游戏资源）"
-					}
-				},
-				{
-					"type": "content",
-					"content": {
-						"en-us": "**Offline Mode, Favorites, etc**\r\n\r\nCurrently only the larger downloads are cached (audios and images) while the rest need to be obtained from server.\r\nWhile it only costs a few KB of data (that's smaller than opening a webpage!) to play each cached level, there is definitely a need for a true offline mode.\r\n\r\nWith offline mode caching enough information to play without an active network connection, features like saving levels to favorites would also be possible.",
-						"zh-cn": "**离线模式、收藏夹等**\r\n\r\n\r\n\r\n目前只有较大的资源会被缓存（音频和图像），而其余的需要从服务器获取。\r\n\r\n虽然它只需要几KB的数据（这比打开一个网页还要小），但要游玩每个缓存关卡，绝对需要一个真正的离线模式。\r\n\r\n\r\n\r\n离线模式缓存足够的信息，在没有网络连接的情况下也可以游玩，比如将关卡保存到收藏夹。"
 					}
 				},
 				{
