@@ -106,13 +106,13 @@
 								"en-us": "Herokuapp"
 							},
 							"value": "https://colorfulstage.herokuapp.com/",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						},
 						{
 							"location": "cn",
 							"description": "[知道创宇]国内加速一线",
 							"value": "https://sonolus.reikohaku.fun/pjs",
-							"version": "Alpha 0.5.0"
+							"version": "Alpha 0.5.1"
 						}
 					]
 				},
