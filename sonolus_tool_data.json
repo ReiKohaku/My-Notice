@@ -38,7 +38,7 @@
 					"type": "content",
 					"content": {
 						"en-us": "**How could I select the perfect server URL?**\r\nIf you do not use Sonolus in China, just use **Official test line**.\r\nIf you use Sonolus in China, try **Official test line** first, or use one of lines which location are China if you can't reach the **Official test line**.",
-						"zh-cn": "**我该怎么选择服务器地址？**\r\n如果你在中国以外的地区使用Sonolus，只需要使用**官方测试线路**即可。\r\n如果你在中国使用Sonolus，请先尝试使用**官方测试线路**，如果连接不上，再使用下方的中国地区线路之一。"
+						"zh-cn": "**我该怎么选择服务器地址？**\r\n如果你在中国以外的地区使用Sonolus，只需要使用**原生线路**即可。\r\n如果你在中国使用Sonolus，请先尝试使用**原生线路**，如果连接不上，再使用下方的中国地区线路之一。"
 					}
 				},{
 					"type": "server_card",
@@ -50,7 +50,7 @@
 					"address": [{
 							"location": "cloudflare",
 							"description": {
-								"zh-cn": "官方测试线路",
+								"zh-cn": "原生线路",
 								"en-us": "Official test line"
 							},
 							"value": "https://sonolus.com/performance-test",
@@ -58,7 +58,11 @@
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/performancee-test",
 							"version": "Alpha 0.5.2"
 						}
@@ -106,13 +110,27 @@
 								"en-us": "Herokuapp"
 							},
 							"value": "https://colorfulstage.herokuapp.com/",
-							"version": "Alpha 0.5.1"
+							"version": "Alpha 0.5.2"
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/pjs",
-							"version": "Alpha 0.5.1"
+							"version": "Alpha 0.5.2"
+						},
+						{
+							"location": "jp",
+							"description": {
+								"en-us": "Japan Tokyo Proxy Line",
+								"zh-cn": "日本东京加速线路",
+								"ja-jp": "日本東京の加速路線"
+							},
+							"value": "https://proxy-assets.sonolus.cn/pjs",
+							"version": "Alpha 0.5.2"
 						}
 					]
 				},
@@ -127,7 +145,7 @@
 					"address": [{
 							"location": "cloudflare",
 							"description": {
-								"zh-cn": "官方测试线路",
+								"zh-cn": "原生线路",
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/bandori",
@@ -135,8 +153,22 @@
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/servers/bandori",
+							"version": "Alpha 0.5.2"
+						},
+						{
+							"location": "jp",
+							"description": {
+								"en-us": "Japan Tokyo Proxy Line",
+								"zh-cn": "日本东京加速线路",
+								"ja-jp": "日本東京の加速路線"
+							},
+							"value": "https://servers.sonolus.cn/bandori",
 							"version": "Alpha 0.5.2"
 						}
 					]
@@ -152,7 +184,7 @@
 					"address": [{
 							"location": "cloudflare",
 							"description": {
-								"zh-cn": "官方测试线路",
+								"zh-cn": "原生线路",
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/bestdori",
@@ -160,7 +192,11 @@
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/servers/bestdori",
 							"version": "Alpha 0.5.2"
 						},
@@ -168,6 +204,16 @@
 							"location": "cn",
 							"description": "[可按谱师搜索]国内加速一线",
 							"value": "http://sonolus.ayachan.fun/bestdori/",
+							"version": "Alpha 0.5.2"
+						},
+						{
+							"location": "jp",
+							"description": {
+								"en-us": "Japan Tokyo Proxy Line",
+								"zh-cn": "日本东京加速线路",
+								"ja-jp": "日本東京の加速路線"
+							},
+							"value": "https://servers.sonolus.cn/bestdori",
 							"version": "Alpha 0.5.2"
 						}
 					]
@@ -183,7 +229,7 @@
 					"address": [{
 							"location": "cloudflare",
 							"description": {
-								"zh-cn": "官方测试线路",
+								"zh-cn": "原生线路",
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/llsif",
@@ -191,8 +237,22 @@
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/servers/llsif",
+							"version": "Alpha 0.5.2"
+						},
+						{
+							"location": "jp",
+							"description": {
+								"en-us": "Japan Tokyo Proxy Line",
+								"zh-cn": "日本东京加速线路",
+								"ja-jp": "日本東京の加速路線"
+							},
+							"value": "https://servers.sonolus.cn/llsif",
 							"version": "Alpha 0.5.2"
 						}
 					]
@@ -208,7 +268,7 @@
 					"address": [{
 							"location": "cloudflare",
 							"description": {
-								"zh-cn": "官方测试线路",
+								"zh-cn": "原生线路",
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/sif",
@@ -216,8 +276,22 @@
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/servers/sif",
+							"version": "Alpha 0.5.2"
+						},
+						{
+							"location": "jp",
+							"description": {
+								"en-us": "Japan Tokyo Proxy Line",
+								"zh-cn": "日本东京加速线路",
+								"ja-jp": "日本東京の加速路線"
+							},
+							"value": "https://servers.sonolus.cn/sif",
 							"version": "Alpha 0.5.2"
 						}
 					]
@@ -232,7 +306,7 @@
 					"address": [{
 							"location": "cloudflare",
 							"description": {
-								"zh-cn": "官方测试线路",
+								"zh-cn": "原生线路",
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/nanaon",
@@ -240,8 +314,22 @@
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/servers/nanaon",
+							"version": "Alpha 0.5.2"
+						},
+						{
+							"location": "jp",
+							"description": {
+								"en-us": "Japan Tokyo Proxy Line",
+								"zh-cn": "日本东京加速线路",
+								"ja-jp": "日本東京の加速路線"
+							},
+							"value": "https://servers.sonolus.cn/nanaon",
 							"version": "Alpha 0.5.2"
 						}
 					]
@@ -257,7 +345,7 @@
 					"address": [{
 							"location": "cloudflare",
 							"description": {
-								"zh-cn": "官方测试线路",
+								"zh-cn": "原生线路",
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/taiko",
@@ -265,8 +353,22 @@
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/servers/taiko",
+							"version": "Alpha 0.5.2"
+						},
+						{
+							"location": "jp",
+							"description": {
+								"en-us": "Japan Tokyo Proxy Line",
+								"zh-cn": "日本东京加速线路",
+								"ja-jp": "日本東京の加速路線"
+							},
+							"value": "https://servers.sonolus.cn/taiko",
 							"version": "Alpha 0.5.2"
 						}
 					]
@@ -278,7 +380,7 @@
 					"address": [{
 							"location": "cloudflare",
 							"description": {
-								"zh-cn": "官方测试线路",
+								"zh-cn": "原生线路",
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/taiko-osu",
@@ -286,8 +388,22 @@
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/servers/taiko-osu",
+							"version": "Alpha 0.5.2"
+						},
+						{
+							"location": "jp",
+							"description": {
+								"en-us": "Japan Tokyo Proxy Line",
+								"zh-cn": "日本东京加速线路",
+								"ja-jp": "日本東京の加速路線"
+							},
+							"value": "https://servers.sonolus.cn/taiko-osu",
 							"version": "Alpha 0.5.2"
 						}
 					]
@@ -302,7 +418,7 @@
 					"address": [{
 							"location": "cloudflare",
 							"description": {
-								"zh-cn": "官方测试线路",
+								"zh-cn": "原生线路",
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/voez",
@@ -310,8 +426,22 @@
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/servers/voez",
+							"version": "Alpha 0.5.2"
+						},
+						{
+							"location": "jp",
+							"description": {
+								"en-us": "Japan Tokyo Proxy Line",
+								"zh-cn": "日本东京加速线路",
+								"ja-jp": "日本東京の加速路線"
+							},
+							"value": "https://servers.sonolus.cn/voez",
 							"version": "Alpha 0.5.2"
 						}
 					]
@@ -323,7 +453,7 @@
 					"address": [{
 							"location": "cloudflare",
 							"description": {
-								"zh-cn": "官方测试线路",
+								"zh-cn": "原生线路",
 								"en-us": "Official test line"
 							},
 							"value": "https://servers.sonolus.com/deemo",
@@ -331,8 +461,22 @@
 						},
 						{
 							"location": "cn",
-							"description": "[知道创宇]国内加速一线",
+							"description": {
+								"en-us": "China Proxy Line",
+								"zh-cn": "[知道创宇]国内加速一线",
+								"ja-jp": "中国の加速路線"
+							},
 							"value": "https://sonolus.reikohaku.fun/servers/deemo",
+							"version": "Alpha 0.5.2"
+						},
+						{
+							"location": "jp",
+							"description": {
+								"en-us": "Japan Tokyo Proxy Line",
+								"zh-cn": "日本东京加速线路",
+								"ja-jp": "日本東京の加速路線"
+							},
+							"value": "https://servers.sonolus.cn/deemo",
 							"version": "Alpha 0.5.2"
 						}
 					]
