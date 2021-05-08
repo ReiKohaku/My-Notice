@@ -176,6 +176,25 @@
 				{
 					"type": "server_card",
 					"name": {
+						"ja-jp": "ミクスドリ",
+						"zh-cn": "Mixdori",
+						"en-us": "Mixdori"
+					},
+					"icon": "img: https://gitee.com/ReiKohaku/notice/raw/master/img/bangdream.png",
+					"address": [{
+							"location": "us",
+							"description": {
+								"zh-cn": "开发者搭建的Herokuapp",
+								"en-us": "Herokuapp"
+							},
+							"value": "https://mixdori-test.herokuapp.com/",
+							"version": "Alpha 0.5.2"
+						}
+					]
+				},
+				{
+					"type": "server_card",
+					"name": {
 						"zh-cn": "Bestdori!自制谱社区",
 						"en-us": "Bestdori! chart community",
 						"ja-jp": "ガルパの創作譜面"
